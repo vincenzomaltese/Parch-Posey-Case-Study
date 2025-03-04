@@ -14,7 +14,7 @@ The database consists of five tables:
 
 Below is the **Entity-Relationship Diagram (ERD)** to better understand the data structure:
 
-*(Insert ERD Image Here)*
+![ERD](https://github.com/vincenzomaltese/Parch-Posey-Case-Study/blob/main/images/ERD_parch_posey.png)
 
 ## 🛠️ Technologies Used
 - **PostgreSQL** – To execute queries and analyze data.  
