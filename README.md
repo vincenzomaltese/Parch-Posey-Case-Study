@@ -34,6 +34,7 @@ Below is the **Entity-Relationship Diagram (ERD)** to better understand the data
 ![WebEngagement](https://github.com/vincenzomaltese/Parch-Posey-Case-Study/blob/main/images/3_Web%20Engagement%20by%20Region.jpg)
 ### 4️⃣ Web Engagement & Sales Correlation  
 **Objective:** Investigate whether **web interactions impact sales performance**.  
+![SalesCorrelation](https://github.com/vincenzomaltese/Parch-Posey-Case-Study/blob/main/images/4_Web%20Engagement%20%26%20Sales%20Correlation.jpg)
 
 ## 📌 Key Takeaways
 ✔️ Identified **high-performing sales representatives**  
