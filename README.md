@@ -28,7 +28,7 @@ Below is the **Entity-Relationship Diagram (ERD)** to better understand the data
 
 ### 2️⃣ Customer Order Trends Over Time  
 **Objective:** Analyze order volume trends over the last year to identify **seasonal patterns**.  
-
+![Customer](https://github.com/vincenzomaltese/Parch-Posey-Case-Study/blob/main/images/2_Customer%20Order%20Trends%20Over%20Time.jpg)
 ### 3️⃣ Web Engagement by Region  
 **Objective:** Compare web engagement levels across different regions to understand **user activity distribution**.  
 
