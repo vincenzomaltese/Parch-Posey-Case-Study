@@ -24,6 +24,7 @@ Below is the **Entity-Relationship Diagram (ERD)** to better understand the data
 
 ### 1️⃣ Sales Performance by Representative (Yearly Analysis)  
 **Objective:** Identify the top-performing sales representatives based on total sales in **2016**.  
+![Sales Performance](https://github.com/vincenzomaltese/Parch-Posey-Case-Study/blob/main/images/1_Sales%20Performance%20by%20Sales%20Representative.jpg)
 
 ### 2️⃣ Customer Order Trends Over Time  
 **Objective:** Analyze order volume trends over the last year to identify **seasonal patterns**.  
