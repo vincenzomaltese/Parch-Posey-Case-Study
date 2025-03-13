@@ -1,10 +1,10 @@
 # Parch & Posey Case Study: Sales and Customer Trends Analysis
 ![Logo](https://github.com/vincenzomaltese/Parch-Posey-Case-Study/blob/main/images/logo.jpg)
 
-## 📌 Project Overview
+##  Project Overview
 This project explores the **Parch & Posey** database, a fictional paper company. The goal is to analyze business problems using **SQL queries**, exploring different analytical techniques such as **aggregations, joins, subqueries, and window functions**.
 
-## 📂 Dataset Description
+##  Dataset Description
 The database consists of five tables:
 
 - **accounts**: Contains customer information, including account name and assigned sales representative.  
@@ -17,23 +17,23 @@ Below is the **Entity-Relationship Diagram (ERD)** to better understand the data
 
 ![ERD](https://github.com/vincenzomaltese/Parch-Posey-Case-Study/blob/main/images/ERD_parch_posey.png)
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - **PostgreSQL** – To execute queries and analyze data.  
 - **Visual Studio Code** – Development environment for writing and running SQL.  
 
-## 🎯 Business Problems & Solutions
+##  Business Problems & Solutions
 
-### 1️⃣ Sales Performance by Representative (Yearly Analysis)  
+###  Sales Performance by Representative (Yearly Analysis)  
 **Objective:** Identify the top-performing sales representatives based on total sales in **2016**.  
 ![Sales Performance](https://github.com/vincenzomaltese/Parch-Posey-Case-Study/blob/main/images/1_Sales%20Performance%20by%20Sales%20Representative.jpg)
 
-### 2️⃣ Customer Order Trends Over Time  
+###  Customer Order Trends Over Time  
 **Objective:** Analyze order volume trends over the last year to identify **seasonal patterns**.  
 ![Customer](https://github.com/vincenzomaltese/Parch-Posey-Case-Study/blob/main/images/2_Customer%20Order%20Trends%20Over%20Time.jpg)
-### 3️⃣ Web Engagement by Region  
+###  Web Engagement by Region  
 **Objective:** Compare web engagement levels across different regions to understand **user activity distribution**.  
 ![WebEngagement](https://github.com/vincenzomaltese/Parch-Posey-Case-Study/blob/main/images/3_Web%20Engagement%20by%20Region.jpg)
-### 4️⃣ Web Engagement & Sales Correlation  
+###  Web Engagement & Sales Correlation  
 **Objective:** Investigate whether **web interactions impact sales performance**.  
 ![SalesCorrelation](https://github.com/vincenzomaltese/Parch-Posey-Case-Study/blob/main/images/4_Web%20Engagement%20%26%20Sales%20Correlation.jpg)
 
