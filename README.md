@@ -1,5 +1,4 @@
 # Parch & Posey Case Study: Sales and Customer Trends Analysis
-![Logo](https://github.com/vincenzomaltese/Parch-Posey-Case-Study/blob/main/images/logo.jpg)
 
 ##  Project Overview
 This project explores the **Parch & Posey** database, a fictional paper company. The goal is to analyze business problems using **SQL queries**, exploring different analytical techniques such as **aggregations, joins, subqueries, and window functions**.
