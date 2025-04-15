@@ -1,5 +1,7 @@
 # Parch & Posey Case Study: Sales and Customer Trends Analysis
 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
 ##  Project Overview
 This project explores the **Parch & Posey** database, a fictional paper company. The goal is to analyze business problems using **SQL queries**, exploring different analytical techniques such as **aggregations, joins, subqueries, and window functions**.
 
